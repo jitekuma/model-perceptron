@@ -55,3 +55,35 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# VS file
+# Visual Studio temporary files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# Test results
+TestResults/
+*.trx
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+
+# VS Code (optional)
+.vscode/
